@@ -4,7 +4,13 @@
 
 # 👋 Hi, I'm Linh!
 
-👩🏻‍🎓 I majored in Computer Science <br/>
+🎓 Graduated with a degree in Computer Science.  
+🐞 Passionate about **Software Testing (QA/QC/Tester)**.  
+🔍 Experienced in test case design, functional testing (Manual Testing), API testing, and defect management.  
+📊 Familiar with Agile/Scrum software development lifecycles and management tools like Jira, Trello, Zephyr, and Qase.  
+🌱 Constantly learning and staying updated with emerging automated testing technologies.  
+📫 Open to connecting and sharing knowledge with everyone!
+<br/>
 
 
 
