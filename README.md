@@ -40,7 +40,6 @@
 
 <!-- Test Management & Quality Tracking -->
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
-
 ![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
 ![Zephyr](https://img.shields.io/badge/Zephyr-007FFF?style=for-the-badge&logo=smartbear&logoColor=white)
 ![Qase](https://img.shields.io/badge/Qase-0B5CFF?style=for-the-badge&logo=checkmarx&logoColor=white)
