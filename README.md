@@ -47,9 +47,8 @@
 ![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
 ![Zephyr](https://img.shields.io/badge/Zephyr-007FFF?style=for-the-badge&logo=smartbear&logoColor=white)
 ![Qase](https://img.shields.io/badge/Qase-0B5CFF?style=for-the-badge&logo=checkmarx&logoColor=white)
-```sql
-SELECT * FROM users WHERE status = 'active';
-```
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=databricks&logoColor=white)
+
 
 
 <!--![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white)-->
