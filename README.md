@@ -49,7 +49,7 @@
 ![Qase](https://img.shields.io/badge/Qase-0B5CFF?style=for-the-badge&logo=checkmarx&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=databricks&logoColor=white)
 
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=databricks&logoColor=white)
+
 
 
 
